@@ -7,7 +7,6 @@ This project predicts whether a person is likely to have heart disease based on 
 - NumPy
 - Pandas
 - Scikit-learn
-- Matplotlib & Seaborn
 - Google Colab
 
 ### Model
